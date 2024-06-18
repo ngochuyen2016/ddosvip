@@ -6,4 +6,12 @@ pkg update
 
 pkg install git
 
-pkg install python
+pkg install python3
+
+https://github.com/ngochuyen2016/ddosvip.git
+
+cd ddosvip
+
+pip3 install -r requirements.txt
+
+python3 ddos.py --proxy.txt
