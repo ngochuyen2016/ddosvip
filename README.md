@@ -8,7 +8,7 @@ pkg install git
 
 pkg install python3
 
-https://github.com/ngochuyen2016/ddosvip.git
+git clone ttps://github.com/ngochuyen2016/ddosvip.git
 
 cd ddosvip
 
