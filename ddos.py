@@ -42,7 +42,7 @@ def logo():
 	print(bcolors.OKGREEN + '██║░░░░░░░░██║░░░██████╔╝██████╔╝╚█████╔╝██████╔╝███████╗██║░░██║')
 	print(bcolors.OKGREEN + '╚═╝░░░░░░░░╚═╝░░░╚═════╝░╚═════╝░░╚════╝░╚═════╝░╚══════╝╚═╝░░╚═╝')
 	print('')
-	print(bcolors.WARNING + '               .:.: Developer: mishakorzik :.:.')
+	print(bcolors.WARNING + '               .:.: BY: NÔNG MINH QUÂN  :.:.')
 	print(bcolors.WARNING + '           .:.: Version: '+version)
 	print('')
 
